@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "liveries": [
+    {
+      "id": "A350-Togalair-FTOGA",
+      "name": "Airbus A359 - Togalair",
+      "aircraft": "A350",
+      "author": "Neilimix",
+      "version": "1.0.0",
+      "description": "Livree Togalair A350 avec sharklets",
+      "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair.png",
+      "install_type": "community",
+      "package_folder_name": "togalair-inibuilds-a350-900-togalair",
+      "download_url": "https://github.com/Neilimix/Togalair-Livery/main/Livery/togalair-inibuilds-a350-900-togalair.zip",
+      "sha256": "34615830b67acd56c63493b5380a65775594b5f795baa6c4c9a389295095ee3b"
+    }
+  ]
+}
