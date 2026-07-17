@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.0.1",
-  "download_url": "https://github.com/Neilimix/Togalair-Livery/releases/download/V0.0.1/TogaLairLivery_0.0.1.zip",
-  "sha256": "017f222273027c130524ecb8625e7a5c99ff697cbeba1b84c6911745f36e7e12",
-  "changelog": "first"
+  "latest_version": "0.0.2",
+  "download_url": "https://github.com/Neilimix/Togalair-Livery/releases/download/app-v0.0.2/TogaLairLivery_0.0.2.zip",
+  "sha256": "393e1e81c78d08d26962b3c9b6b47f8e1c163007cf9deeb3ff6efc87e1b5fe0e",
+  "changelog": "second"
 }
