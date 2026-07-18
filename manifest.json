@@ -30,23 +30,23 @@
 	  "sha256": "DAC83B44E452CB0E6ABD26BD10E5AB633FBCDED63857C173A5EF3E8F3781A809",
 	  "files": [
 		{
-		  "path": "SimObjects/Airplaines/FSLTL_A320_TGL/aircraft.cfg",
+		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/aircraft.cfg",
 		  "sha256": "607f22a8459633f831cfb794f097280b50afffa25753ce01a4bd7e38a699d5b8"
 		},
 		{
-		  "path": "SimObjects/Airplaines/FSLTL_A320_TGL/model.TGL/model.cfg",
+		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/model.TGL/model.cfg",
 		  "sha256": "0267ec2973330716c4071c436ffc2b4f14e630b953db104b3c1de6dbbb29b869"
 		},
 		{
-		  "path": "SimObjects/Airplaines/FSLTL_A320_TGL/texture.TGL/FAIB_A320_CFM_T.PNG.dds",
+		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/texture.TGL/FAIB_A320_CFM_T.PNG.dds",
 		  "sha256": "33cb0ddc3a5a1d5c9308345acf1124780d692ab8f941475d541744be88232460"
 		},
 		{
-		  "path": "SimObjects/Airplaines/FSLTL_A320_TGL/texture.TGL/FAIB_A320_CFM_T.PNG.dds.json",
+		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/texture.TGL/FAIB_A320_CFM_T.PNG.dds.json",
 		  "sha256": "3a95dab0ea6d4928d783e1a83affa3b3f0edd581733985c469ae298a5b54c730"
 		},
 		{
-		  "path": "SimObjects/Airplaines/FSLTL_A320_TGL/texture.TGL/texture.cfg",
+		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/texture.TGL/texture.cfg",
 		  "sha256": "c5022976e7798e1b94f176bfc96c5f66504c28690ff6a2669b6fd2aa5e3204e5"
 		}
 			]
