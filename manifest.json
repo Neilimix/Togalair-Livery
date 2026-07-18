@@ -15,7 +15,7 @@
       "sha256": "34615830b67acd56c63493b5380a65775594b5f795baa6c4c9a389295095ee3b"
     },
 	{
-	  "id": "fsltl-a320-togalair-mtl",
+	  "id": "fsltl-togalair-mtl",
 	  "name": "FSLTL - Togalair (Vatsim)",
 	  "aircraft": "All",
 	  "author": "Neilimix",
@@ -26,8 +26,8 @@
 	  "target_package_folder_name": "fsltl-traffic-base",
 	  "requires_addon_name": "FSLTL Traffic Base",
 	  "requires_addon_version": "1.6.2",
-	  "download_url": "A_COMPLETER_une_fois_la_Release_GitHub_creee",
-	  "sha256": "A_COMPLETER_hash_du_zip_complet_Togalair-MTL.zip"
+	  "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/Togalair-MTL.zip",
+	  "sha256": "DAC83B44E452CB0E6ABD26BD10E5AB633FBCDED63857C173A5EF3E8F3781A809"
 }
   ]
 }
