@@ -27,7 +27,7 @@
 	  "requires_addon_name": "FSLTL Traffic Base",
 	  "requires_addon_version": "1.6.2",
 	  "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/Togalair-MTL.zip",
-	  "sha256": "4CB76C43F62AA7CC5B7C31FD66B2D51B8149FCA9B711E79CBEC322ACA9208E6C",
+	  "sha256": "6D25F343AE31FCEE4B1516085E2B006D801274DF1E69B5C1CD72D074BA5CE426",
 	  "files": [
 		{
 		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/aircraft.cfg",
@@ -48,6 +48,26 @@
 		{
 		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/texture.TGL/texture.cfg",
 		  "sha256": "c5022976e7798e1b94f176bfc96c5f66504c28690ff6a2669b6fd2aa5e3204e5"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_A359_TGL/aircraft.cfg",
+		  "sha256": "A3295CEBCB2AFB5A00490B8A6BAF12BD3DEA9CA72C10E2993C771A1C979D1E0C"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_A359_TGL/model.TGL/model.cfg",
+		  "sha256": "21682E51632719BC5EFADAEC703AB566BE5BE6F8ACADC2008D6BA2B0DF10AB8B"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_A359_TGL/texture.TGL/FSPXA350900_T.PNG.dds",
+		  "sha256": "780CB2A5B9DA7E3DC1D7132BC51AAF1A877144F3BBF88E5B3AF3B0C9E564CB76"
+		},
+		{
+		  "path": "fsltl-traffic-base/SimObjects/Airplanes/FSLTL_A359_TGL/texture.TGL/FSPXA350900_T.PNG.dds.json",
+		  "sha256": "3A95DAB0EA6D4928D783E1A83AFFA3B3F0EDD581733985C469AE298A5B54C730"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_A359_TGL/texture.TGL/texture.cfg",
+		  "sha256": "87011BC1DD0DF9E7EB7407B7DB5BF7A6A59F80B18393DB38EA3E78EE151E2629"
 		}
 			]
 	}	
