@@ -27,7 +27,7 @@
 	  "requires_addon_name": "FSLTL Traffic Base",
 	  "requires_addon_version": "1.6.2",
 	  "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/Togalair-MTL.zip",
-	  "sha256": "DAC83B44E452CB0E6ABD26BD10E5AB633FBCDED63857C173A5EF3E8F3781A809",
+	  "sha256": "4CB76C43F62AA7CC5B7C31FD66B2D51B8149FCA9B711E79CBEC322ACA9208E6C",
 	  "files": [
 		{
 		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/aircraft.cfg",
