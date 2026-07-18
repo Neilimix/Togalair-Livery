@@ -101,6 +101,25 @@
       "package_folder_name": "togalair-aircraft-b777300er-livery-ftobb",
       "download_url": "Livery/togalair-aircraft-b777300er-livery-ftobb.zip",
       "sha256": "E58CEF32B9E4F2033B5EA0B7934A6FE22CBA5765CE1B4A6036A2EFF68B8576E7"
+    },
+	{
+      "id": "A350-Togalair-F1",
+      "name": "Airbus A350-900 - Togalair F1",
+      "aircraft": "A350",
+      "author": "NEIRDA",
+      "version": "0.0.14",
+      "description": "Livree Togalair F1 A350-900",
+      "thumbnail_url": "thumbnails/A350-900-Togalair-F1.png",
+	  "gallery_urls": [
+		"thumbnails/A350-900-Togalair-F1.png",
+		"thumbnails/A350-900-Togalair-F1-2.png",
+		"thumbnails/A350-900-Togalair-F1-3.png",
+		"thumbnails/A350-900-Togalair-F1-4.png"
+	  ],
+      "install_type": "community",
+      "package_folder_name": "a350-900-TOGALAIR-F1",
+      "download_url": "Livery/a350-900-TOGALAIR-F1.zip",
+      "sha256": "454DBAB584B809C8C9E003D1E0C54D6B32DE190AE1562AAC7AA6F57B57E6F5B7"
     }
   ]
 }
