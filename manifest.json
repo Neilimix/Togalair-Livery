@@ -8,16 +8,16 @@
       "author": "Neilimix",
       "version": "0.1.0",
       "description": "Livree Togalair A350 avec sharklets",
-      "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair.png",
+      "thumbnail_url": "thumbnails/a350-togalair.png",
 	  "gallery_urls": [
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair-2.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair-3.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair-4.png"
+		"thumbnails/a350-togalair.png",
+		"thumbnails/a350-togalair-2.png",
+		"thumbnails/a350-togalair-3.png",
+		"thumbnails/a350-togalair-4.png"
 	  ],
       "install_type": "community",
       "package_folder_name": "togalair-inibuilds-a350-900-togalair",
-      "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/togalair-inibuilds-a350-900-togalair.zip",
+      "download_url": "Livery/togalair-inibuilds-a350-900-togalair.zip",
       "sha256": "34615830b67acd56c63493b5380a65775594b5f795baa6c4c9a389295095ee3b"
     },
 	{
@@ -27,18 +27,18 @@
 	  "author": "Neilimix",
 	  "version": "1.0.0",
 	  "description": "Livree Togalair pour le trafic IA FSLTL",
-	  "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-mtl-togalair.png",
+	  "thumbnail_url": "thumbnails/fsltl-mtl-togalair.png",
 	  "gallery_urls": [
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-mtl-togalair.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-mtl-togalair-2.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-mtl-togalair-3.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-mtl-togalair-4.png"
+		"thumbnails/fsltl-mtl-togalair.png",
+		"thumbnails/fsltl-mtl-togalair-2.png",
+		"thumbnails/fsltl-mtl-togalair-3.png",
+		"thumbnails/fsltl-mtl-togalair-4.png"
 	  ],
 	  "install_type": "layout",
 	  "package_folder_name": "fsltl-traffic-base",
 	  "requires_addon_name": "FSLTL Traffic Base",
 	  "requires_addon_version": "1.6.2",
-	  "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/Togalair-MTL.zip",
+	  "download_url": "Livery/Togalair-MTL.zip",
 	  "sha256": "6D25F343AE31FCEE4B1516085E2B006D801274DF1E69B5C1CD72D074BA5CE426",
 	  "files": [
 		{
@@ -90,16 +90,16 @@
       "author": "Neilimix",
       "version": "0.1.0",
       "description": "Livree Togalair B777-300ER",
-      "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/b777300er-togalair.png",
+      "thumbnail_url": "thumbnails/b777300er-togalair.png",
 	  "gallery_urls": [
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/b777300er-togalair.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/b777300er-togalair-2.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/b777300er-togalair-3.png",
-		"https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/b777300er-togalair-4.png"
+		"thumbnails/b777300er-togalair.png",
+		"thumbnails/b777300er-togalair-2.png",
+		"thumbnails/b777300er-togalair-3.png",
+		"thumbnails/b777300er-togalair-4.png"
 	  ],
       "install_type": "community",
       "package_folder_name": "togalair-aircraft-b777300er-livery-ftobb",
-      "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/togalair-aircraft-b777300er-livery-ftobb.zip",
+      "download_url": "Livery/togalair-aircraft-b777300er-livery-ftobb.zip",
       "sha256": "E58CEF32B9E4F2033B5EA0B7934A6FE22CBA5765CE1B4A6036A2EFF68B8576E7"
     }
   ]
