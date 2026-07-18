@@ -13,6 +13,21 @@
       "package_folder_name": "togalair-inibuilds-a350-900-togalair",
       "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/togalair-inibuilds-a350-900-togalair.zip",
       "sha256": "34615830b67acd56c63493b5380a65775594b5f795baa6c4c9a389295095ee3b"
-    }
+    },
+	{
+	  "id": "fsltl-a320-togalair-mtl",
+	  "name": "FSLTL - Togalair (Vatsim)",
+	  "aircraft": "All",
+	  "author": "Neilimix",
+	  "version": "1.0.0",
+	  "description": "Livree Togalair pour le trafic IA FSLTL",
+	  "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-a320-togalair.png",
+	  "install_type": "layout",
+	  "target_package_folder_name": "fsltl-traffic-base",
+	  "requires_addon_name": "FSLTL Traffic Base",
+	  "requires_addon_version": "1.6.2",
+	  "download_url": "A_COMPLETER_une_fois_la_Release_GitHub_creee",
+	  "sha256": "A_COMPLETER_hash_du_zip_complet_Togalair-MTL.zip"
+}
   ]
 }
