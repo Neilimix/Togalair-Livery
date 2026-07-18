@@ -23,7 +23,7 @@
 	  "description": "Livree Togalair pour le trafic IA FSLTL",
 	  "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/fsltl-mtl-togalair.png",
 	  "install_type": "layout",
-	  "target_package_folder_name": "fsltl-traffic-base",
+	  "package_folder_name": "fsltl-traffic-base",
 	  "requires_addon_name": "FSLTL Traffic Base",
 	  "requires_addon_version": "1.6.2",
 	  "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/Togalair-MTL.zip",
