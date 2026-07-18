@@ -70,6 +70,19 @@
 		  "sha256": "87011BC1DD0DF9E7EB7407B7DB5BF7A6A59F80B18393DB38EA3E78EE151E2629"
 		}
 			]
-	}	
+	},
+	{
+      "id": "B773ER-Togalair-FTOBB",
+      "name": "Boeing B777-300ER - Togalair",
+      "aircraft": "B777-300ER",
+      "author": "Neilimix",
+      "version": "0.1.0",
+      "description": "Livree Togalair A350 avec sharklets",
+      "thumbnail_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/thumbnails/a350-togalair.png",
+      "install_type": "community",
+      "package_folder_name": "togalair-aircraft-b777300er-livery-ftobb",
+      "download_url": "https://raw.githubusercontent.com/Neilimix/Togalair-Livery/main/Livery/togalair-aircraft-b777300er-livery-ftobb.zip",
+      "sha256": "E58CEF32B9E4F2033B5EA0B7934A6FE22CBA5765CE1B4A6036A2EFF68B8576E7"
+    }
   ]
 }
