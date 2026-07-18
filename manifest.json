@@ -104,7 +104,7 @@
     },
 	{
       "id": "A350-Togalair-F1",
-      "name": "Airbus A350-900 - Togalair F1",
+      "name": "Airbus A359 - Togalair F1",
       "aircraft": "A350",
       "author": "NEIRDA",
       "version": "0.0.14",
@@ -120,6 +120,25 @@
       "package_folder_name": "a350-900-TOGALAIR-F1",
       "download_url": "Livery/a350-900-TOGALAIR-F1.zip",
       "sha256": "454DBAB584B809C8C9E003D1E0C54D6B32DE190AE1562AAC7AA6F57B57E6F5B7"
+    },
+	{
+      "id": "A35K-Togalair-F1",
+      "name": "Airbus A35K - Togalair F1",
+      "aircraft": "A350",
+      "author": "NEIRDA",
+      "version": "0.0.14",
+      "description": "Livree Togalair F1 A350-1000",
+      "thumbnail_url": "thumbnails/A350-1000-Togalair-F1.png",
+	  "gallery_urls": [
+		"thumbnails/A350-1000-Togalair-F1.png",
+		"thumbnails/A350-1000-Togalair-F1-2.png",
+		"thumbnails/A350-1000-Togalair-F1-3.png",
+		"thumbnails/A350-1000-Togalair-F1-4.png"
+	  ],
+      "install_type": "community",
+      "package_folder_name": "a350-1000-TOGALAIR-F1",
+      "download_url": "Livery/a350-1000-TOGALAIR-F1.zip",
+      "sha256": "D15AB834025FE6B0C2F128DAFD6517B34320FCC9D3A326687B9B9A8A91BD5942"
     }
   ]
 }
