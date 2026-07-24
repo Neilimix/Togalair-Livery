@@ -139,6 +139,24 @@
       "package_folder_name": "a350-1000-TOGALAIR-F1",
       "download_url": "Livery/a350-1000-TOGALAIR-F1.zip",
       "sha256": "D15AB834025FE6B0C2F128DAFD6517B34320FCC9D3A326687B9B9A8A91BD5942"
+    },
+	{
+      "id": "A319-Togarthur",
+      "name": "Airbus A319 - Togarthur",
+      "aircraft": "A319",
+      "author": "Neilimix",
+      "version": "0.1.0",
+      "description": "Livree Togarthur A319",
+      "thumbnail_url": "thumbnails/A319-100-Togarthur.png",
+	  "gallery_urls": [
+		"thumbnails/A319-100-Togarthur.png",
+		"thumbnails/A319-100-Togarthur-2.png",
+		"thumbnails/A319-100-Togarthur-3.png"
+	  ],
+      "install_type": "community",
+      "package_folder_name": "togalair-aircraft-a319100-livery-fbbya",
+      "download_url": "Livery/togalair-aircraft-a319100-livery-fbbya.zip",
+      "sha256": "A4574B9DABB73AC6906D1A4898053556B01FDAFB600A85736163B8681C2407B9"
     }
   ]
 }
