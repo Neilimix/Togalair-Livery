@@ -37,7 +37,7 @@
 	  "install_type": "layout",
 	  "package_folder_name": "fsltl-traffic-base",
 	  "requires_addon_name": "FSLTL Traffic Base",
-	  "requires_addon_version": "1.6.2",
+	  "requires_addon_version": "1.6.1",
 	  "download_url": "Livery/Togalair-MTL.zip",
 	  "sha256": "6D25F343AE31FCEE4B1516085E2B006D801274DF1E69B5C1CD72D074BA5CE426",
 	  "files": [
