@@ -25,7 +25,7 @@
 	  "name": "FSLTL - Togalair (Vatsim)",
 	  "aircraft": "All",
 	  "author": "Neilimix",
-	  "version": "1.0.0",
+	  "version": "1.1.0",
 	  "description": "Livree Togalair pour le trafic IA FSLTL",
 	  "thumbnail_url": "thumbnails/fsltl-mtl-togalair.png",
 	  "gallery_urls": [
@@ -39,7 +39,7 @@
 	  "requires_addon_name": "FSLTL Traffic Base",
 	  "requires_addon_version": "1.6.1",
 	  "download_url": "Livery/Togalair-MTL.zip",
-	  "sha256": "6D25F343AE31FCEE4B1516085E2B006D801274DF1E69B5C1CD72D074BA5CE426",
+	  "sha256": "658469A9A15113D31F6C4946AEEDA227D0748CF54659AFEDF1C5C88E1BAEBB4F",
 	  "files": [
 		{
 		  "path": "SimObjects/Airplanes/FSLTL_A320_TGL/aircraft.cfg",
@@ -80,6 +80,30 @@
 		{
 		  "path": "SimObjects/Airplanes/FSLTL_A359_TGL/texture.TGL/texture.cfg",
 		  "sha256": "87011BC1DD0DF9E7EB7407B7DB5BF7A6A59F80B18393DB38EA3E78EE151E2629"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_BCS3_TGL/texture.TGL/texture.cfg",
+		  "sha256": "7B55E024A604DD075865712A3EECA044F0FCDF86A25421157D3CC716821C76D4"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_BCS3_TGL/aircraft.cfg",
+		  "sha256": "89B4927C53172A65D6DFC7C5C6CFBAD26300FE5F15C2E7386090CAF158EF466E"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_BCS3_TGL/MODEL.TGL/model.CFG",
+		  "sha256": "97DC948FD489DCF0D33CC49B3F69DCB76C09E5B65CBB1E4CA1101A3E957630D9"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_BCS3_TGL/texture.TGL/SBAI_CS300_T.PNG.DDS",
+		  "sha256": "5C7919323776115549C15D69A5AD65E185EEE50820945EBAB189D37700D5142A"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_BCS3_TGL/texture.TGL/SBAI_CS300_T.PNG.DDS.json",
+		  "sha256": "FE0D50AF4FBC927AAB3D539FE12BF694239C327EB06667CC14C4E4AD70A6C2D7"
+		},
+		{
+		  "path": "SimObjects/Airplanes/FSLTL_BCS3_TGL/texture.TGL/SBAI_CS300_T.PNG.DDS.json",
+		  "sha256": "FE0D50AF4FBC927AAB3D539FE12BF694239C327EB06667CC14C4E4AD70A6C2D7"
 		}
 			]
 	},
