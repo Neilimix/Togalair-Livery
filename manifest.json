@@ -157,6 +157,29 @@
       "package_folder_name": "togalair-aircraft-a319100-livery-fbbya",
       "download_url": "Livery/togalair-aircraft-a319100-livery-fbbya.zip",
       "sha256": "A4574B9DABB73AC6906D1A4898053556B01FDAFB600A85736163B8681C2407B9"
+    },
+	{
+      "id": "A220-Togalair",
+      "name": "Airbus A220 - Togalair",
+      "aircraft": "A220",
+      "author": "Neilimix",
+      "version": "0.0.14",
+      "description": "Livree Togalair A220",
+      "thumbnail_url": "thumbnails/A220-Togalair.png",
+	  "gallery_urls": [
+		"thumbnails/A220-Togalair.png",
+		"thumbnails/A220-Togalair-2.png",
+		"thumbnails/A220-Togalair-3.png"
+	  ],
+      "install_type": "community",
+      "package_folder_name": "synaptic-a220-togalair-livery",
+      "download_url": "Livery/synaptic-a220-togalair-livery.zip",
+      "sha256": "1782191D8B3557A305CE02DD3CED70788F7EF57191221B5190D59003489DE57C"
     }
   ]
 }
+
+
+
+
+
