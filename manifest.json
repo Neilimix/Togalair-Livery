@@ -199,6 +199,25 @@
       "package_folder_name": "synaptic-a220-togalair-livery",
       "download_url": "Livery/synaptic-a220-togalair-livery.zip",
       "sha256": "1782191D8B3557A305CE02DD3CED70788F7EF57191221B5190D59003489DE57C"
+    },
+	{
+      "id": "A346-Togalair-FLONG",
+      "name": "Airbus A346 - Togalair",
+      "aircraft": "A356",
+      "author": "Neilimix",
+      "version": "0.1.0",
+      "description": "Livree Togalair A346",
+      "thumbnail_url": "thumbnails/a346-togalair.png",
+	  "gallery_urls": [
+		"thumbnails/a346-togalair.png",
+		"thumbnails/a346-togalair-2.png",
+		"thumbnails/a346-togalair-3.png",
+		"thumbnails/a346-togalair-4.png"
+	  ],
+      "install_type": "community",
+      "package_folder_name": "togalair-tgl-a346-flong",
+      "download_url": "Livery/togalair-tgl-a346-flong.zip",
+      "sha256": "B230E785C04F9A76BF086839B293FC7646E0BAFA022C62A18D6E59BF74B50273"
     }
   ]
 }
